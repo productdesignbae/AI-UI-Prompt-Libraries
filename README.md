@@ -2,6 +2,8 @@
 
 10 beautifully designed, interactive AI UI Prompt Libraries built with React + TypeScript — each styled in a completely different design system.
 
+![AI UI Prompt Libraries Preview](./assets/preview.png)
+
 ## About
 
 This project showcases what a prompt library product UI could look like across 10 distinct visual aesthetics:
